@@ -1,0 +1,11 @@
+{
+  "name": "taller-colaborativo",
+  "version": "1.0.0",
+  "description": "Trabajo colaborativo de estudiantes de la materia de devops",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "Estudiantes",
+  "license": "MIT"
+}
